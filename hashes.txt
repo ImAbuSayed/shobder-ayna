@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shobder Ayna
+
+This log tracks the cryptographic history and versioning for the song **Shobder Ayna** (shobder-ayna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-14T20:14:26.735354 | `v1` | `1beba3d467c6b46be2f69f79c179cba8e44085c73b7e12464eea667641b62c63` | `7d68bad591d2bc4cf95cea3b840de543d5ab28202cd2551aeac5a7687a331b31` | `2026-05-14_shobder-ayna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

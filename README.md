@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shobder-ayna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Shobder Ayna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shobder-ayna/) |
+| **Get License** | [Music Rights & Licensing for Shobder Ayna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shobder-ayna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1beba3d467c6b46be2f69f79c179cba8e44085c73b7e12464eea667641b62c63` |
 | **Timestamp** | May 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
